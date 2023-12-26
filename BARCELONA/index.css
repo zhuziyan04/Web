@@ -1,0 +1,35 @@
+.navbar{
+overflow:hidden;
+background-color: #fff;
+color: #333;
+margin: 30px 7%;
+margin-bottom: 0;
+display: flex;
+justify-content: space-between;
+}
+.navbar a {
+display: block;
+color: #333;
+text-align: center;
+padding: 12px;
+text-decoration: none;
+font-weight: bold;
+}
+.navbar a:hover{
+text-decoration: none;
+color:black;
+border-bottom: 2px solid #0238f7;
+}
+.logo{
+width: auto;
+max-width: 235px;
+max-height: 60px;
+margin-top:30px;
+}
+.menu-list{
+margin-left: 10px;
+display:flex;
+}
+.container{
+margin: 0 7%;
+}
